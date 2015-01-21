@@ -2,7 +2,7 @@
 
 + INFO en sección Wiki.
 
-`Proyecto final de asignatura ASO - CFGS`
+`Proyecto final de asignatura ASO - CFGS (Administración de Sistemas Informáticos en Red)`
 
 ## Grupo de Estudiantes
 
