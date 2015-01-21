@@ -1,2 +1,10 @@
-#Bash Shell Script: DHCP, SSH, SAMBA 
+# Script Bash: DHCP, SSH, SAMBA 
+
+Proyecto final de asignatura ASO - CFGS.
+
+Más información del script en Wiki
+
+## Programadores
+
+## Licencia
 
