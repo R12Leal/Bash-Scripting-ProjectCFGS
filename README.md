@@ -6,6 +6,10 @@
 
 ## Grupo de Estudiantes
 
+* Luis Eduardo Alvarez - `krrplace@gmail.com`
+* Adrià Moyá - `adria.moya@gmail.com` 
+* Ramsés Leal - `leal.ramses@gmail.com`
+
 ## Licencia
 
 Copyright ©2012.
