@@ -1,6 +1,6 @@
 # Script Bash: DHCP, SSH, SAMBA 
 
-+ INFO en sección Wiki.
++ Más información del script en Wiki ->
 
 `Proyecto final de asignatura ASO - CFGS (Admin. de Sistemas Informáticos en Red)`
 
