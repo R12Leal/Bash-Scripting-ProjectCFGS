@@ -8,7 +8,7 @@
 
 ## Licencia
 
-Copyright © 2012.
+Copyright ©2012.
 
 Publicado bajo la licencia GPLv3.
 
